@@ -1,0 +1,18 @@
+- New letter -
+Source: Vancouver
+Destination: Burnaby
+- Accepted letter -
+Destination: Burnaby
+- New package -
+Source: Vancouver
+Destination: Beijing
+- Accepted package -
+Destination: Beijing
+- New package -
+Source: Vancouver
+Destination: Burnaby
+- Rejected package -
+Source: Vancouver
+- Standard transit departure -
+- Standard transit departure -
+- - DAY 1 OVER - -

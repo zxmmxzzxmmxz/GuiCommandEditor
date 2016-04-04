@@ -1,0 +1,11 @@
+10
+PACKAGE Burnaby aaa Burnaby 123 222 
+LETTER Burnaby abc Burnaby Ximin 
+BUILD FAS 123 111 1111 2 200 
+PICKUP Burnaby Ximin 
+NSADELAY abc 2 
+GOOD
+DEFLATION
+DAY
+SNEAK
+INFLATION
