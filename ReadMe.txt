@@ -14,7 +14,7 @@ This program uses open-source "beautyeye-3.7" look & feel.
 The lib file can be found under ./libs folder and this lib file need to be added to the build path to work
 
 ************Features*****************
-1. Program will read & load the current command file naming "commands.txt" under the project root folder if available
+1. Program will read & load the current command file named "commands.txt" under the project root folder, if such file is available.
 
 2. Program supports all commands adding features,such as "New Letter","Deflation" and etc.
 
